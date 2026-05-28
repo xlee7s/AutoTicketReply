@@ -77,6 +77,9 @@
 
 将插件放入 Xboard 插件目录：`plugins`
 
+```
+git clone https://github.com/xlee7s/AutoTicketReply.git
+```
 
 然后在后台刷新插件列表或执行安装操作。
 
